@@ -243,8 +243,8 @@ def eventi(input=""):
 import csv
 import json
 
-def anagrafica(input=""):
-    file_path='/Users/tomasmali/Desktop/LangGraph/rest/ana.csv'
+def record_c(input=""):
+    file_path='rest/ana.csv'
     with open(file_path, 'r', newline='') as csvfile:
         csv_reader = csv.DictReader(csvfile)
         

@@ -1,104 +1,40 @@
-﻿"","Descrizione","Url","Icona","Tipo","Gruppo","Abilitato","Nascosto","Applicazione",""
-"Anagrafiche di base","Anagrafiche di base","folderSysAng","mdi mdi-folder-edit","Cartella","System admin (@SystemAdmin)","true","false","",""
-"Risorse","Risorse","resources","mdi mdi-account","Voce di menù","","true","false","Synergy (synergy)",""
-"Tipi risorse","Tipi risorse","resources-type","mdi mdi-account-details","Voce di menù","","true","false","Synergy (synergy)",""
-"Assenze","Assenze","absences","mdi mdi-account-minus","Voce di menù","","true","false","Synergy (synergy)",""
-"Gruppi","Gruppi","groups","mdi mdi-account-multiple","Voce di menù","","true","false","Synergy (synergy)",""
-"Organigrammi","Organigrammi","organization-charts","mdi mdi-file-tree","Voce di menù","","true","false","Synergy (synergy)",""
-"Applicazioni","Applicazioni","applications","mdi mdi-apps","Voce di menù","","true","false","Synergy (synergy)",""
-"Menù","Menù","menus","mdi mdi-menu","Voce di menù","","true","false","Synergy (synergy)",""
-"Unità di misura temporali","Unità di misura temporali","uniMeaTmpCfg","mdi mdi-clock-start","Voce di menù","","false","false","Synergy (synergy)",""
-"Commesse","Commesse","jobs","mdi mdi-file-document-box-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Clienti","Clienti","customers","mdi mdi-wunderlist","Voce di menù","","true","false","Synergy (synergy)",""
-"Causale movimento tempo","Causale movimento tempo","cauMovTmpCfg","mdi mdi-clock-alert-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Categorie articoli","Categorie articoli","item-categories","mdi mdi-tag-text-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Articoli","Articoli","items","mdi mdi-palette-swatch","Voce di menù","","true","false","Synergy (synergy)",""
-"Matricole","Matricole","item-serial-numbers","mdi mdi-barcode","Voce di menù","","true","false","Synergy (synergy)",""
-"Fornitori","Fornitori","suppliers","mdi mdi-forklift","Voce di menù","","true","false","Synergy (synergy)",""
-"Bot","Bot","botCfg","mdi mdi-telegram","Voce di menù","","true","false","Synergy (synergy)",""
-"Badge","Badge","badCfg","mdi mdi-account-card-details","Voce di menù","","true","false","Synergy (synergy)",""
-"Modalità di spedizione","Modalità di spedizione","shipment-methods","mdi mdi-truck-fast","Voce di menù","","true","false","Synergy (synergy)",""
-"Modalità di pagamento","Modalità di pagamento","payment-methods","mdi mdi-credit-card","Voce di menù","","true","false","Synergy (synergy)",""
-"Tipi di pagamento","Tipi di pagamento","payment-types","mdi mdi-wallet","Voce di menù","","true","false","Synergy (synergy)",""
-"Modalità di trasporto","Modalità di trasporto","transport-methods","mdi mdi-car-hatchback","Voce di menù","","true","false","Synergy (synergy)",""
-"Imballo","Imballo","packaging","mdi mdi-package","Voce di menù","","true","false","Synergy (synergy)",""
-"Aliquota IVA","Aliquota IVA","vats","mdi mdi-cash","Voce di menù","","true","false","Synergy (synergy)",""
-"Business Unit","Business Unit","business-units","mdi mdi-account-group","Voce di menù","","true","false","Synergy (synergy)",""
-"Zone","Zone","zones","mdi mdi-city-variant","Voce di menù","","true","false","Synergy (synergy)",""
-"Valuta","Valuta","currencies","mdi mdi-cash-usd","Voce di menù","","true","false","Synergy (synergy)",""
-"Tipi di indirizzo","Tipi di indirizzo","address-types","mdi mdi-mailbox","Voce di menù","","true","false","Synergy (synergy)",""
-"Forme di saluto","Forme di saluto","salutation-forms","mdi mdi-account-card-details","Voce di menù","","true","false","Synergy (synergy)",""
-"Ruoli","Ruoli","roles","mdi mdi-account-supervisor-circle","Voce di menù","","true","false","Synergy (synergy)",""
-"Luoghi","Luoghi","places","mdi mdi-map-marker-multiple","Voce di menù","","true","false","Synergy (synergy)",""
-"Stati articolo","Stati articolo","item-status","mdi mdi-package-variant-closed","Voce di menù","","true","false","Synergy (synergy)",""
-"Banche","Banche","banks","mdi mdi-bank","Voce di menù","","true","false","Synergy (synergy)",""
-"Conti bancari aziendali","Conti bancari aziendali","company-banks","mdi mdi-bank-transfer","Voce di menù","","true","false","Synergy (synergy)",""
-"Cambi valuta","Cambi valuta","currency-changes","mdi mdi-cash-refund","Voce di menù","","true","false","Synergy (synergy)",""
-"Unità di misura","Unità di misura","unit-measure","mdi mdi-tape-measure","Voce di menù","","true","false","Synergy (synergy)",""
-"Cicli di lavoro","Cicli di lavoro","production-cycles","mdi mdi-google-circles-group","Voce di menù","","true","false","Synergy (synergy)",""
-"Cicli fase di lavoro","Cicli fase di lavoro","cycle-operations","mdi mdi-animation-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Distinte base","Distinte base","bill-of-materials","mdi mdi-file-document-box-multiple-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Lavorazioni","Lavorazioni","workings","mdi mdi-cogs","Voce di menù","","true","false","Synergy (synergy)",""
-"Categorie lavorazioni","Categorie lavorazioni","working-categories","mdi mdi-tag-text-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Processi produttivi","Processi produttivi","production-processes","mdi mdi-cogs","Voce di menù","","true","false","Synergy (synergy)",""
-"Centri di costo","Centri di costo","cost-centers","mdi mdi-cash","Voce di menù","","true","false","Synergy (synergy)",""
-"Lingue","Lingue","languages","mdi mdi-translate","Voce di menù","","true","false","Synergy (synergy)",""
-"Centri di lavoro","Centri di lavoro","work-centers","mdi mdi-worker","Voce di menù","","false","false","Synergy (synergy)",""
-"Tipi legame distinta base","Tipi legame distinta base","bill-of-materials-link-type","mdi mdi-ribbon","Voce di menù","","true","false","Synergy (synergy)",""
-"Aliquota di costo","Aliquota di costo","cost-rate","mdi mdi-percent","Voce di menù","","true","false","Synergy (synergy)",""
-"Costi orari centri di lavoro","Costi orari centri di lavoro","hourly-costs-work-centers","mdi mdi-cash","Voce di menù","","false","false","Synergy (synergy)",""
-"Tipi livello organigramma","Tipi livello organigramma","org-level-types","mdi mdi-priority-high","Voce di menù","","true","false","Synergy (synergy)",""
-"Stabilimenti","Stabilimenti","factories","mdi mdi-factory","Voce di menù","","true","false","Synergy (synergy)",""
-"Configurazioni globali","Configurazioni globali","folderCfgGbl","mdi mdi-earth","Cartella","System admin (@SystemAdmin)","true","false","",""
-"Organizzazioni","Organizzazioni","organizations","mdi mdi-factory","Voce di menù","","true","false","Synergy (synergy)",""
-"Parametri configurabili","Parametri configurabili","configurable-parameters","mdi mdi-table-of-contents","Voce di menù","","true","false","Synergy (synergy)",""
-"Server di posta","Server di posta","mail-server","mdi mdi-email-plus-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Lavori schedulati","Lavori schedulati","scheduler","mdi mdi-clock-fast","Voce di menù","","true","false","Synergy (synergy)",""
-"Configurazione lavori schedulati","Configurazione lavori schedulati","scheduler/jobs","mdi mdi-clock-fast","Voce di menù","","false","true","Synergy (synergy)",""
-"Gruppi lavori schedulati","Gruppi lavori schedulati","scheduler/schedule-groups","mdi mdi-clock-fast","Voce di menù","","false","true","Synergy (synergy)",""
-"Schedulazione lavori schedulati","Schedulazione lavori schedulati","scheduler/scheduled-jobs","mdi mdi-clock-fast","Voce di menù","","false","true","Synergy (synergy)",""
-"Trigger","Trigger","scheduler/triggers","mdi mdi-clock-fast","Voce di menù","","true","true","Synergy (synergy)",""
-"Statistiche lavori schedulati","Statistiche lavori schedulati","job-statistics","mdi mdi-clock-alert-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Sorgente servizi","Sorgente servizi","service-source","mdi mdi-source-pull","Voce di menù","","true","false","Synergy (synergy)",""
-"Server remoti","Server remoti","remote-servers","mdi mdi-server-security","Voce di menù","","true","false","Synergy (synergy)",""
-"Server organizzazioni","Server organizzazioni","organization-servers","mdi mdi-server-security","Voce di menù","","true","false","Synergy (synergy)",""
-"Configurazione login","Configurazione login","login-configuration","mdi mdi-key","Voce di menù","","true","false","Synergy (synergy)",""
-"additional-source-properties","additional-source-properties","srcPrpCfg","mdi mdi-source-merge","Voce di menù","","false","false","Synergy (synergy)",""
-"Connessione cartelle remote","Connessione cartelle remote","remote-folder-connection","mdi mdi-folder-move","Voce di menù","","true","false","Synergy (synergy)",""
-"Opzioni globali","Opzioni globali","global-options","mdi mdi-settings-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Categorie allegati","Categorie allegati","attachments-categories","mdi mdi-tag-text-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Cestino allegati","Cestino allegati","attachments-trash","mdi mdi-trash-can-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Permessi in scrittura","Permessi in scrittura","write-permissions","mdi mdi-pencil-lock","Voce di menù","","true","false","Synergy (synergy)",""
-"Permessi in selezione","Permessi in selezione","selection-permissions","mdi mdi-filter","Voce di menù","","true","false","Synergy (synergy)",""
-"Liste valori","Liste valori","lists","mdi mdi-format-list-bulleted","Voce di menù","","true","false","Synergy (synergy)",""
-"Liste remote","Liste remote","lists-remote","mdi mdi-format-list-bulleted-type","Voce di menù","","true","false","Synergy (synergy)",""
-"Configurazione audit log","Configurazione audit log","audit-config","mdi mdi-feature-search-outline","Voce di menù","System admin (@SystemAdmin)","true","false","Synergy (synergy)",""
-"Profili classi documentali ECM","Profili classi documentali ECM","ecm-class-profiles","mdi mdi-file-document-box-multiple-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Regole di codifica","Regole di codifica","encoding-rules","mdi mdi-code-braces","Voce di menù","","true","false","Synergy (synergy)",""
-"Preferenze utente","Preferenze utente","user-preferences","mdi mdi-settings","Voce di menù","","true","true","Synergy (synergy)",""
-"Configurazioni applicative","Configurazioni applicative","folderCfgApp","mdi mdi-tune","Cartella","System admin (@SystemAdmin)","true","false","",""
-"Abilitazione globale parametri","Abilitazione globale parametri","global-parameter-enabling","mdi mdi-check-all","Voce di menù","","true","false","Synergy (synergy)",""
-"Query","Query","queries","mdi mdi-table-edit","Voce di menù","","true","false","Synergy (synergy)",""
-"Query per servizi","Query per servizi","service-queries","mdi mdi-table-edit","Voce di menù","","true","false","Synergy (synergy)",""
-"Definizione campi utente","Definizione campi utente","user-field-definitions","mdi mdi-textbox","Voce di menù","","true","false","Synergy (synergy)",""
-"Campi utente tabellari","Campi utente tabellari","tabular-user-fields","mdi mdi-table-settings","Voce di menù","","true","false","Synergy (synergy)",""
-"Configurazione form","Configurazione form","form-design","mdi mdi-wall","Voce di menù","","true","false","Synergy (synergy)",""
-"Configurazioni colonne database","Configurazioni colonne database","column-configurations","mdi mdi-database","Voce di menù","","true","false","Synergy (synergy)",""
-"Workspace","Workspace","workspaces","mdi mdi-airplay","Voce di menù","","true","false","Synergy (synergy)",""
-"Categorie tipi notifiche","Categorie tipi notifiche","notification-type-categories","mdi mdi-bell-plus-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Schema dati","Schema dati","schema-data","mdi mdi-database-search","Voce di menù","","true","false","Synergy (synergy)",""
-"Utilità di sistema","Utilità di sistema","folderSysUtl","mdi mdi-settings","Cartella","SMI (@SMI)","true","false","",""
-"Gestione personalizzazioni","Gestione personalizzazioni","customizations","mdi mdi-human-handsup","Voce di menù","","true","false","Synergy (synergy)",""
-"Configurazione debug","Configurazione debug","debug-configuration","mdi mdi-bug","Voce di menù","","true","false","Synergy (synergy)",""
-"Traduzioni","Traduzioni","translation","mdi mdi-comment-text-multiple-outline","Voce di menù","","true","false","Synergy (synergy)",""
-"Log degli accessi","Log degli accessi","access-logs","mdi mdi-account-search-outline","Voce di menù","System admin (@SystemAdmin)","true","false","Synergy (synergy)",""
-"Audit log","Audit log","audit-logs","mdi mdi-feature-search-outline","Voce di menù","System admin (@SystemAdmin)","true","false","Synergy (synergy)",""
-"Calendari","Calendari","folderSysCal","mdi mdi-calendar-multiselect","Cartella","","true","false","",""
-"Calendari","Calendari","calendars","mdi mdi-calendar","Voce di menù","","true","false","Synergy (synergy)",""
-"Turni giornalieri","Turni giornalieri","calendar-days","mdi mdi-calendar-week-begin","Voce di menù","","true","false","Synergy (synergy)",""
-"Calendari festività","Calendari festività","calendar-holidays","mdi mdi-calendar-alert","Voce di menù","","true","false","Synergy (synergy)",""
-"Eventi di calendario","Eventi di calendario","calendar-events","mdi mdi-calendar","Voce di menù","","true","false","Synergy (synergy)",""
-"Calendario eventi","Calendario eventi","calendar-events-viewer","mdi mdi-calendar","Voce di menù","","true","false","Synergy (synergy)",""
-"Stati evento di calendario","Stati evento di calendario","calendar-event-states","mdi mdi-calendar","Voce di menù","","true","false","Synergy (synergy)",""
-"Tipi evento di calendario","Tipi evento di calendario","calendar-event-types","mdi mdi-calendar","Voce di menù","","true","false","Synergy (synergy)",""
-"Tipologie turno","Tipologie turno","calendar-shift-types","mdi mdi-calendar","Voce di menù","","true","false","Synergy (synergy)",""
+﻿Data ultimo aggiornamento stato WF (DTUWML),1° Limite Valore Accettaz. (LAV1ML),Tipo Record (TIREML),Descrizione articolo (DESCML),Codice Documento Allegato (CDDAML),Fornitore (CDCFML),Lotto Minimo (LOMIML),Profilo Ultima Manutenzione (PROFML),Codice Listino,Articolo esterno (CDAEML),Perc. di Assorbimento (PCASML),Classe (CLASML),Quantità in Ordine (QTORML),2° Limite Valore Acc. Val.Sec. (LAV2ML2),Codice AIC articolo (CAICML),Stato processo WF (STPWML),Codice Marca (CDMAML),Codice Unità di Misura (CDUMML),Coefficiente (COEFML),Codice Ditta (CDDTML),Codice ATC articolo (CATCML),Descrizione Articolo (DSARML),1° Limite Valore Acc. Val.Sec. (LAV1ML2),Tempo Approvvigionamento (TMAPML),Flag Per Personalizzazioni      1 (FLA1ML),Lotto Riordino (LORIML),Flag Per Personalizzazioni      3 (FLA3ML),Codice Class. Gerarc. 2 (CDG2ML),Flag Per Personalizzazioni      5 (FLA5ML),1° Limite Giorni Accettaz. (LAG1ML),Imp.Min. Acquisto Val.Sec. (IMINML2),Codice Articolo (CDARML),Data Ult. Valutaz. Qualità (DTUVML),Codice Fase di Lavorazione (CDFAML),Data Immissione Rec. (DT01ML),Codice Valuta (CDVAML),Stato Assegnazione 1/2/3/4/ (STASML),Quantità Produzione Giornaliera (QPOGML),Codice Ciclo (CDCIML),Punteggio Valutaz. Qualità (PUVAML),Importo Minimo Acquisto (IMINML),2° Limite Valore Accettaz. (LAV2ML),Data Ultima Manutenzione (DTMNML),Flag eclusione processo WF (ESPWML),Codice Estensione (CTGMML),Lotto Multiplo S/N (LOMUML),Raggruppam. Listino (RGLIML),Data Ultimo Aggiornam. Rec. (DTUAML),Descrizione articolo esterno (DSAEML),Flag Per Personalizzazioni      2 (FLA2ML),Flag Per Personalizzazioni      4 (FLA4ML),Fornitore Produttore (CDFPML),Codice Class. Gerarc. 1 (CDG1ML),2° Limite Giorni Accettaz. (LAG2ML),Barcode (CBARML),Codice Distributore (CDDSML),Codice Class. Gerarc. 3 (CDG3ML)
+0,0.000000,,,,,0.0000,WRKLUCROM,0301ITS004,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,1,0.000000,0,,0.0000,,,,0,0.000000,232067,0,,0,,,0.0000,,0,0.000000,0.000000,20231229,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,VANTUR80,A,,0.00,B1,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,,0,,20100930,,,0.0000,,0,0.000000,0.000000,0,,,,B1,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKNICREF,A,,0.00,RR,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,,0,,20150709,,,0.0000,,0,0.000000,0.000000,20190703,,,,RR,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,SERMIE80,A,,0.00,01,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,,0,,20100929,,,0.0000,,0,0.000000,0.000000,20100929,,,,01,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,.),0,,20161011,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,.)),0,,20160114,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,*ADDAUT,0,,20151127,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,KG,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,A,0,,20161215,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,0301001340,
+0,0.000000,,,,,0.0000,LUIFRARCP,A,,0.00,,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,A_QTA,0,,20101029,,,0.0000,,0,0.000000,0.000000,20101029,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,A_QTA_BIS,0,,20150709,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,AA_01,0,,20150709,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKLUCROM,0301ITS004,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,1,0.000000,0,,0.0000,,,,0,0.000000,293076,0,,0,,,0.0000,,0,0.000000,0.000000,20231229,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKLUCROM,0301ITS004,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,1,0.000000,0,,0.0000,,,,0,0.000000,320740,0,,0,,,0.0000,,0,0.000000,0.000000,20231229,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,KG,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,ALE_2,0,,20161025,,,0.0000,,0,0.000000,0.000000,20231031,,,,EC,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,KG,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,ALE_6,0,,20160913,,,0.0000,,0,0.000000,0.000000,20231031,,,,SS,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,ALESCAV,A,,0.00,,0.0000,0.000000,,,,KG,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,ALESSIAARTICO,0,,20060103,,,0.0000,,0,0.000000,0.000000,0,,,,AL,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,AXXX2,0,,20161011,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,CERCHIO1,0,,20150709,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,0301000003,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,Anagrafico listini,0.000000,0,,0.0000,,,,0,0.000000,GAS1,0,,20151120,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,GAS2,0,,20160310,,,0.0000,,0,0.000000,0.000000,20231031,,,,DR,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,GIUBOR,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,GB3,0,,20041001,,,0.0000,,0,0.000000,0.000000,20041001,,,,GB,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,KG,2.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,LORIS,0,,20161010,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,MICHELA1,0,,20101011,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,MICCOG,A,,0.00,,0.0000,0.000000,,,,KG,1.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,MICHELE,0,,20070828,,,0.0000,,0,0.000000,0.000000,20070828,,,,RR,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,PIPPO,0,,20160309,,,0.0000,,0,0.000000,0.000000,20231031,,,,02,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,FG,-2.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,ZONIN_1,0,,20150709,,,0.0000,,0,0.000000,0.000000,20231031,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKGABAND,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,01,0,,20150709,,,0.0000,,0,0.000000,0.000000,20231031,,,,53,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,MICVEDRCP,A,,0.00,RR,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,A_Q2_PINNA_F,0,,20100920,£,,0.0000,,0,0.000000,0.000000,0,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,MICVEDRCP,A,,0.00,,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,MICHELA1,0,,20101005,C$,,0.0000,,0,0.000000,0.000000,0,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKLORSEC,A,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,DESCRIZIONE LISTINO A - FOR,0.000000,0,,0.0000,,,,0,0.000000,ALE_DESCR_S,0,,20160310,DF,,0.0000,,0,0.000000,0.000000,0,,,,PR,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,SAMDEM80,A,,0.00,,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,,0,,20090622,DM,,0.0000,,0,0.000000,0.000000,0,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKSTESTO,A C,,0.00,,0.0000,0.000000,,,,,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,,0,,20160531,,,0.0000,,0,0.000000,0.000000,0,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKB2B,A C,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,AAA,0.000000,0,,0.0000,,,,0,0.000000,.)),0,,20160304,,,0.0000,,0,0.000000,0.000000,20180601,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKB2B,A C,,0.00,,0.0000,0.000000,,,,KG,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,.AA,0,,20160714,,,0.0000,,0,0.000000,0.000000,20180531,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKLORSEC,A C,,0.00,,0.0000,0.000000,,,,NR,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,GAS1,0,,20160926,,,0.0000,,0,0.000000,0.000000,20170316,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKB2B,A C,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,GOMMAR,0,,20161013,,,0.0000,,0,0.000000,0.000000,20180531,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKLORSEC,A C,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,MICHELA1,0,,20160308,,,0.0000,,0,0.000000,0.000000,0,,,,,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKLORSEC,A C,,0.00,,0.0000,0.000000,,,,PZ,0.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,PIPPO,0,,20160926,,,0.0000,,0,0.000000,0.000000,0,,,,02,0,,,,,,0,,,
+0,0.000000,,,,,0.0000,WRKLORSEC,A C,,0.00,,0.0000,0.000000,,,,FG,-2.0000,01,,,0.000000,0,,0.0000,,,,0,0.000000,ZONIN_1,0,,20160926,,,0.0000,,0,0.000000,0.000000,0,,,,,0,,,,,,0,,,
