@@ -1,0 +1,18 @@
+requests
+boto3
+langchain
+streamlit
+numpy
+python-dotenv
+tabulate
+duckduckgo-search
+langchainhub
+langchain-community
+
+#python=3.12.1
+# langchain
+# python-dotenv
+# boto3
+# langchainhub
+# duckduckgo-search
+# langchain-community
